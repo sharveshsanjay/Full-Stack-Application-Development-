@@ -1,0 +1,16 @@
+# MySQL / local configuration
+**/php/config.php
+
+# Environment files
+.env
+.env.*
+
+# XAMPP
+xampp/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
