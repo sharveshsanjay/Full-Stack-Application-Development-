@@ -123,10 +123,10 @@ npm start
 | Task 1 | Full Stack Application Development Task 1 | ✅ Completed |
 | Task 2 | Full Stack Application Development Task 2 | ✅ Completed |
 | Task 3 | Full Stack Application Development Task 3 | ✅ Completed |
-| Task 4 | Full Stack Application Development Task 4 | 📅 Scheduled |
-| Task 5 | Full Stack Application Development Task 5 | 📅 Scheduled |
-| Task 6 | Full Stack Application Development Task 6 | 📅 Scheduled |
-| Task 7 | Full Stack Application Development Task 7 | 📅 Scheduled |
+| Task 4 | Full Stack Application Development Task 4 | ✅ Completed |
+| Task 5 | Full Stack Application Development Task 5 | ✅ Completed |
+| Task 6 | Full Stack Application Development Task 6 | ✅ Completed |
+| Task 7 | Full Stack Application Development Task 7 | ✅ Completed |
 
 The task status will be updated as each assignment is completed.
 
